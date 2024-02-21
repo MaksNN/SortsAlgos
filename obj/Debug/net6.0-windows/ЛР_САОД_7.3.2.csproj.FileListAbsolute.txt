@@ -1,0 +1,33 @@
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\bin\Debug\net6.0-windows\ЛР_САОД_7.3.2.exe
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\bin\Debug\net6.0-windows\ЛР_САОД_7.3.2.deps.json
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\bin\Debug\net6.0-windows\ЛР_САОД_7.3.2.runtimeconfig.json
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\bin\Debug\net6.0-windows\ЛР_САОД_7.3.2.dll
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\bin\Debug\net6.0-windows\ЛР_САОД_7.3.2.pdb
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7._3._2.Form1.resources
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.dll
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\refint\ЛР_САОД_7.3.2.dll
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.pdb
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.genruntimeconfig.cache
+C:\Users\nikol\OneDrive\Документы\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ref\ЛР_САОД_7.3.2.dll
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\bin\Debug\net6.0-windows\ЛР_САОД_7.3.2.exe
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\bin\Debug\net6.0-windows\ЛР_САОД_7.3.2.deps.json
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\bin\Debug\net6.0-windows\ЛР_САОД_7.3.2.runtimeconfig.json
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\bin\Debug\net6.0-windows\ЛР_САОД_7.3.2.dll
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\bin\Debug\net6.0-windows\ЛР_САОД_7.3.2.pdb
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7._3._2.Form1.resources
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.dll
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\refint\ЛР_САОД_7.3.2.dll
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.pdb
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ЛР_САОД_7.3.2.genruntimeconfig.cache
+C:\Users\nikol\OneDrive\Документы\Универ\2 курс\ДЗ_САОД\ЛР\ЛР_САОД_7.3.2\ЛР_САОД_7.3.2\obj\Debug\net6.0-windows\ref\ЛР_САОД_7.3.2.dll
